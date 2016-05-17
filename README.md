@@ -10,7 +10,7 @@ WeChat-PlatForm-PHP
 --------
 ###文件解释
 * 菜单操作demo
-creat_menu.php delete_menu.php get_menu.php reponse_menu_event.php
+    creat_menu.php delete_menu.php get_menu.php reponse_menu_event.php
 * 用户操作demo
 get_user_group.php get_user_info.php get_user_openid_list.php update_user_group.php
 * 接收信息操作demo
