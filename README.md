@@ -9,11 +9,11 @@ WeChat-PlatForm-PHP
 使用说明
 --------
 ###文件解释
-* 菜单操作demo
-    creat_menu.php delete_menu.php get_menu.php reponse_menu_event.php
-* 用户操作demo
+* 菜单操作demo<br>
+creat_menu.php delete_menu.php get_menu.php reponse_menu_event.php
+* 用户操作demo<br>
 get_user_group.php get_user_info.php get_user_openid_list.php update_user_group.php
-* 接收信息操作demo
+* 接收信息操作demo<br>
 recieve-event.php recieve_msg.php
-* 发送信息操作demo
+* 发送信息操作demo<br>
 send_msg.php send_msg_sumary.php custom_send.php
